@@ -1,7 +1,7 @@
 ## Olá, me chamo Sandy 👋
 
 <p align="center">
-  <img src="https://media.tenor.com/z1YT2LePMWkAAAAj/tkthao219-peach.gif" alt="GIF de Boas-Vindas" width="80%">
+  <img src="https://media.tenor.com/z1YT2LePMWkAAAAj/tkthao219-peach.gif" alt="GIF de Boas-Vindas" width=40%">
 </p>
 
 ### 👩🏻‍💻 Sobre Mim
