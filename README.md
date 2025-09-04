@@ -32,6 +32,9 @@ Estas são algumas das tecnologias com as quais tenho tido contato:
   - [Hackathon 360: Estimulando Meninas na Computação em Projetos de Robótica Social para Educação;](https://sol.sbc.org.br/index.php/wit/article/view/35978)
   - [Ada vai à escola: relato de experiências com sua biografia em escolas de nível fundamental e médio.](https://sol.sbc.org.br/index.php/wei/article/view/36261)
 
+- **[Participação em projeto Game sobre Intoxicação Doméstica Infantil](https://github.com/GCAS-UFF/Game-Intoxicacao-Domestica-Infantil)**
+  - Participei como **[Desenvolvedora, Level Designer e Tester]** neste projeto de extensão do Grupo de Computação Aplicada à Saúde (GCAS) da UFF.
+  - Minhas principais responsabilidades incluíram **[Ajudar na implementação de um jogo plataforma acessável dentro do jogo principal, criar as fases, adicionar movimentos do personagem, adicionar animações, adicionar contadores de progresso, testar a dificuldade]**.
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
